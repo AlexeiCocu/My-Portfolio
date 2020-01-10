@@ -1,38 +1,163 @@
-.App {
+
+.header-color {
+  background: #0f0c29;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #24243e, #302b63, #0f0c29);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #24243e, #302b63, #0f0c29); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+          
+}
+
+.landing-grid {
+  background: #0f0c29;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #24243e, #302b63, #0f0c29);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #24243e, #302b63, #0f0c29); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.avatar-img {
+  height: 250px;
+  padding-top: 5em;
+  
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.banner-text {
+  background-color: black;
+  opacity: .6;
+  width: 55%;
+  margin: auto;
+  border-radius: 10px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.projects-grid {
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+  
+}
+
+.banner-text h1 {
+  font-size: 50px;
+  font-weight: bold;
+  color: white; 
+  padding-top: .3em;
+  
+  
+}
+
+/* projects page */
+.content {
+  background: #0f0c29;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #24243e, #302b63, #0f0c29);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #24243e, #302b63, #0f0c29); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+.bb {
+  background: #0f0c29;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #24243e, #302b63, #0f0c29);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #24243e, #302b63, #0f0c29); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+
+.banner-text p {
   color: white;
+  font-size: 20px;
+  padding: .3em;
 }
 
-.App-link {
-  color: #61dafb;
+.social-links {
+  display: flex;
+  justify-content: space-between;
+  width: 20%;
+  margin:auto;
+  
+  
+  
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.social-links i {
+  color: white;
+  font-size: 5em;
+  padding: 5px;
+  
+}
+
+/* start of Contact page */
+
+.contact-body {
+  margin: auto;
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  justify-content: center;
+  padding-top: 2em;
+
+  background: #0f0c29;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #24243e, #302b63, #0f0c29);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #24243e, #302b63, #0f0c29); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+          
+}
+
+.contact-grid {
+  text-align: center;
+  justify-content: center;
+  width: 80%;
+  height: 550px;
+  color: white;
+  
+  margin-bottom: 20px;
+  
+
+      
+}
+
+.contact-grid h2 {
+  font-family: 'Roboto', sans-serif;
+}
+
+.contact-grid p {
+  font-family: 'Oxygen', sans-serif;
+  
+}
+
+.contact-grid hr {
+  border-top: 5px white;
+  width: 50%;
+  margin: auto; 
+}
+
+.contact-list i {
+  font-size: 40px;
+  padding-right: 5rem;
+}
+
+/* end of Contact page */
+
+/* Start of Resume page */
+
+
+.avatarc {
+  margin-top: 25px;
+}
+
+
+.bgr1{
+  background: white;
+  opacity: 0.9;
+  border-radius: 5px;
+  font-family: 'Roboto', sans-serif;
+  
+ 
+}
+
+
+/* end of Resume page */
+
+/* landing page*/
+.land {
+  display: flex;
 }
