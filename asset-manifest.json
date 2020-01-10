@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/AlexeiCocu/My-Portfolio.git/static/css/main.45be24d1.chunk.css",
+    "main.js": "/AlexeiCocu/My-Portfolio.git/static/js/main.7dae4683.chunk.js",
+    "main.js.map": "/AlexeiCocu/My-Portfolio.git/static/js/main.7dae4683.chunk.js.map",
+    "runtime-main.js": "/AlexeiCocu/My-Portfolio.git/static/js/runtime-main.de72aaa7.js",
+    "runtime-main.js.map": "/AlexeiCocu/My-Portfolio.git/static/js/runtime-main.de72aaa7.js.map",
+    "static/css/2.a6bc1c31.chunk.css": "/AlexeiCocu/My-Portfolio.git/static/css/2.a6bc1c31.chunk.css",
+    "static/js/2.20ae74eb.chunk.js": "/AlexeiCocu/My-Portfolio.git/static/js/2.20ae74eb.chunk.js",
+    "static/js/2.20ae74eb.chunk.js.map": "/AlexeiCocu/My-Portfolio.git/static/js/2.20ae74eb.chunk.js.map",
+    "index.html": "/AlexeiCocu/My-Portfolio.git/index.html",
+    "precache-manifest.ee4720972c9d74b8c9ff95ae232be4d6.js": "/AlexeiCocu/My-Portfolio.git/precache-manifest.ee4720972c9d74b8c9ff95ae232be4d6.js",
+    "service-worker.js": "/AlexeiCocu/My-Portfolio.git/service-worker.js",
+    "static/css/2.a6bc1c31.chunk.css.map": "/AlexeiCocu/My-Portfolio.git/static/css/2.a6bc1c31.chunk.css.map",
+    "static/css/main.45be24d1.chunk.css.map": "/AlexeiCocu/My-Portfolio.git/static/css/main.45be24d1.chunk.css.map",
+    "static/js/2.20ae74eb.chunk.js.LICENSE": "/AlexeiCocu/My-Portfolio.git/static/js/2.20ae74eb.chunk.js.LICENSE",
+    "static/media/eu1.jpg": "/AlexeiCocu/My-Portfolio.git/static/media/eu1.b13f26fb.jpg",
+    "static/media/eu2.png": "/AlexeiCocu/My-Portfolio.git/static/media/eu2.7481a7f2.png",
+    "static/media/logo.svg": "/AlexeiCocu/My-Portfolio.git/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de72aaa7.js",
+    "static/css/2.a6bc1c31.chunk.css",
+    "static/js/2.20ae74eb.chunk.js",
+    "static/css/main.45be24d1.chunk.css",
+    "static/js/main.7dae4683.chunk.js"
+  ]
+}
